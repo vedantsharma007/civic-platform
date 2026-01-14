@@ -1,0 +1,8 @@
+{
+  "name": "JanSeva: National Civic Platform",
+  "description": "A citizen-to-government civic intelligence platform for reporting, tracking, and collaborating on public issues with AI-driven priority scoring and transparency dashboards.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
